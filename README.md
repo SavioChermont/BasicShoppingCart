@@ -19,15 +19,13 @@
   
   ![image](https://user-images.githubusercontent.com/45010175/90903076-ce632580-e3a3-11ea-9749-25df07e93a3e.png)
 
-  ![layout2](https://user-images.githubusercontent.com/45010175/90901980-26992800-e3a2-11ea-9686-88b1c3fa5071.PNG)
-
 </div>
 
 <div>
   <h3> FUNCIONALIDADES </h3>
   <li> Botão Create: Adiciona novos elementos 
     
-    ![image](https://user-images.githubusercontent.com/45010175/90903305-226e0a00-e3a4-11ea-8301-04e481f4e28d.png)
+    ![img2](https://user-images.githubusercontent.com/45010175/90903453-53e6d580-e3a4-11ea-92dc-46a33e8415b7.PNG)
     
 </li>
   <li> FORM: Contém os INPUTS que declaram nomes para a votação </li>
