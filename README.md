@@ -26,7 +26,9 @@
 <div>
   <h3> FUNCIONALIDADES </h3>
   <li> Botão Create: Adiciona novos elementos 
+    
     ![image](https://user-images.githubusercontent.com/45010175/90903305-226e0a00-e3a4-11ea-8301-04e481f4e28d.png)
+    
 </li>
   <li> FORM: Contém os INPUTS que declaram nomes para a votação </li>
   <li> VOTE: Recebe dados do DASHBOARD/FORM, cria os butões "Gerar" e "Encerrar" e chama o DISPLAY </li>
