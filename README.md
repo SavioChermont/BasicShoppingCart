@@ -1,5 +1,5 @@
-<h2> VoteSystem </h2>
-<p> Um simples sistema de votação criado com REACT JS </p>
+<h2> ShoppingCart</h2>
+<p> Um simples sistema que simula um carrinho de compras com REACT JS </p>
 
 <div>
   <h3> TECNOLOGIAS </h3>
@@ -24,8 +24,10 @@
 </div>
 
 <div>
-  <h3> COMPONENTES </h3>
-  <li> DASHBOARD: Criado para ser o pai de FORM e VOTE, possibilitando informaçoes serem trocadas</li>
+  <h3> FUNCIONALIDADES </h3>
+  <li> Botão Create: Adiciona novos elementos 
+    ![image](https://user-images.githubusercontent.com/45010175/90903305-226e0a00-e3a4-11ea-8301-04e481f4e28d.png)
+</li>
   <li> FORM: Contém os INPUTS que declaram nomes para a votação </li>
   <li> VOTE: Recebe dados do DASHBOARD/FORM, cria os butões "Gerar" e "Encerrar" e chama o DISPLAY </li>
   <li> DISPLAY: Responsável por exibir a votação na tela após o clique no botão "Gerar", e incrementa votos ao clicar em "Votar" </li>
