@@ -41,7 +41,7 @@
   
   ![imgdelete](https://user-images.githubusercontent.com/45010175/90904077-2fd7c400-e3a5-11ea-9f6a-b4f9aeeabde5.PNG)
   
-  <li> Navbar: Contabiliza a quantidade de elementos que possuim unidade </li>
+  <li> Navbar: Contabiliza a quantidade de elementos que possuem unidade </li>
   
   ![imgnavbar](https://user-images.githubusercontent.com/45010175/90904089-3403e180-e3a5-11ea-90ec-141a84ce62ce.PNG)
   
